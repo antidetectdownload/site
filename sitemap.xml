@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://antidetect.download/post-sitemap.xml</loc>
-		<lastmod>2019-08-30T09:20:43+00:00</lastmod>
+		<lastmod>2019-10-19T12:12:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://antidetect.download/page-sitemap.xml</loc>
@@ -10,11 +10,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://antidetect.download/category-sitemap.xml</loc>
-		<lastmod>2019-08-30T09:20:43+00:00</lastmod>
+		<lastmod>2019-10-19T12:12:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://antidetect.download/post_tag-sitemap.xml</loc>
-		<lastmod>2019-08-30T09:20:43+00:00</lastmod>
+		<lastmod>2019-10-19T12:12:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://antidetect.download/ngg_tag-sitemap.xml</loc>
