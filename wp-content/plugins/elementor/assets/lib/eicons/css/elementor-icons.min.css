@@ -1,4 +1,4 @@
-@font-face {font-family: eicons;src: url("../fonts/eicons.eot?5.4.0");src: url("../fonts/eicons.eot?5.4.0#iefix") format("embedded-opentype"),url("../fonts/eicons.woff2?5.4.0") format("woff2"),url("../fonts/eicons.woff?5.4.0") format("woff"),url("../fonts/eicons.ttf?5.4.0") format("truetype"),url("../fonts/eicons.svg?5.4.0#eicon") format("svg");font-weight: 400;font-style: normal;}
+@font-face {font-family: eicons;src: url("../fonts/eicons.eot?5.5.0");src: url("../fonts/eicons.eot?5.5.0#iefix") format("embedded-opentype"),url("../fonts/eicons.woff2?5.5.0") format("woff2"),url("../fonts/eicons.woff?5.5.0") format("woff"),url("../fonts/eicons.ttf?5.5.0") format("truetype"),url("../fonts/eicons.svg?5.5.0#eicon") format("svg");font-weight: 400;font-style: normal;}
 [class*=" eicon-"], [class^=eicon] {display: inline-block;font-family: eicons;font-size: inherit;font-weight: 400;font-style: normal;font-variant: normal;line-height: 1;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 @keyframes a {0% {transform: rotate(0deg);}
 	to {transform: rotate(359deg);}}
@@ -338,3 +338,13 @@
 .eicon-meetup:before {content: "";}
 .eicon-slideshow:before {content: "";}
 .eicon-t-letter-bold:before {content: "";}
+.eicon-preferences:before {content: "";}
+.eicon-table-of-contents:before {content: "";}
+.eicon-tv:before {content: "";}
+.eicon-upload:before {content: "";}
+.eicon-instagram-comments:before {content: "";}
+.eicon-instagram-nested-gallery:before {content: "";}
+.eicon-instagram-post:before {content: "";}
+.eicon-instagram-video:before {content: "";}
+.eicon-instagram-gallery:before {content: "";}
+.eicon-instagram-likes:before {content: "";}
